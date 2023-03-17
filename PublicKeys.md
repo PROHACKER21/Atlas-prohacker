@@ -8,8 +8,8 @@ MONGODB=mongodb+srv://aimhacker2144:SANNY2144@cluster0.gkg4gpb.mongodb.net/?retr
 SESSION_ID= sanny05821
 PREFIX=-
 TENOR_API_KEY=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c
-PACKNAME=Atlas MD
-AUTHOR=FantoX
+PACKNAME=ANONYMOUS 
+AUTHOR=SANNY
 ```
 
 <br>
