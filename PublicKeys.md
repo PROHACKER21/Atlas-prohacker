@@ -4,8 +4,8 @@
 
 ```
 MODS=918101187835,923045204414
-MONGODB=mongodb+srv://fantox:xrto71r@cluster0.dnlowts.mongodb.net/?retryWrites=true&w=majority
-SESSION_ID= anyrandomstring
+MONGODB=mongodb+srv://aimhacker2144:SANNY2144@cluster0.gkg4gpb.mongodb.net/?retryWrites=true&w=majority
+SESSION_ID= sanny05821
 PREFIX=-
 TENOR_API_KEY=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c
 PACKNAME=Atlas MD
@@ -24,7 +24,7 @@ AUTHOR=FantoX
 ### 🧩 Pubic MongoDB URL ( You should use your own if you have one ):
 
 ```
-mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://aimhacker2144:SANNY2144@cluster0.gkg4gpb.mongodb.net/?retryWrites=true&w=majority
 ```
 - Public database is to store user levels, banning, bot mode and other important data.
 
