@@ -6,7 +6,7 @@
 MODS=918101187835,923045204414
 MONGODB=mongodb+srv://aimhacker2144:SANNY2144@cluster0.gkg4gpb.mongodb.net/?retryWrites=true&w=majority
 SESSION_ID= sanny05821
-PREFIX=-
+PREFIX=.
 TENOR_API_KEY=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c
 PACKNAME=ANONYMOUS 
 AUTHOR=SANNY
